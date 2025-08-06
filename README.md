@@ -31,4 +31,4 @@ This project is a lightweight **Notepad clone** built using **Java Swing**, repl
 
 
 ```markdown
-![Notepad UI](screenshot.
+
