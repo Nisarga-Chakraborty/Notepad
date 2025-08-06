@@ -27,6 +27,7 @@ This project is a lightweight **Notepad clone** built using **Java Swing**, repl
 ---
 
 ## 📸 Screenshot
+<img width="599" height="600" alt="image" src="https://github.com/user-attachments/assets/2e6695dd-2c28-4984-a50e-eb72778b50ad" />
 
 
 ```markdown
